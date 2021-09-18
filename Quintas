@@ -1,7 +1,0 @@
-#include<stdio.h>
-
-int main()
-{
-    printf("Micaela Cassandra Camral Quintas, 18 years of age!.");
-    return 0;
-}
